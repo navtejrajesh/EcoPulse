@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#06120c"/>
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="#0d281a" stroke="#10b981" stroke-width="16"/>
+  <circle cx="256" cy="256" r="140" fill="url(#pulseGrad)" fill-opacity="0.2" stroke="#10b981" stroke-width="12"/>
+  <path d="M120 256h70l35-70 65 140 45-90 35 40h60" stroke="#34d399" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="390" cy="140" r="28" fill="#10b981"/>
+  <circle cx="390" cy="140" r="14" fill="#a7f3d0"/>
+  <defs>
+    <radialGradient id="pulseGrad" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 256) scale(140)">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#059669" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

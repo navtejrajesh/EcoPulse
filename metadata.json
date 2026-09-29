@@ -1,0 +1,6 @@
+{
+  "name": "EcoPulse - Gamified Sustainability & Habits",
+  "description": "Gamified sustainability habit tracker with collectible virtual badges, regional leaderboards, daily eco wisdom, and social media sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

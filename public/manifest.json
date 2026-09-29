@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "EcoPulse — Gamified Sustainability",
+  "short_name": "EcoPulse",
+  "description": "Gamified planetary custodianship. Track habits, earn badges, and consult AI.",
+  "theme_color": "#06120c",
+  "background_color": "#06120c",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
